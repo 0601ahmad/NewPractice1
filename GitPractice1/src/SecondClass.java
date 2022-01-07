@@ -16,7 +16,10 @@ public class SecondClass {
 		}
 		for (int i: num) {
 			System.out.println(i);
-			System.out.println("this line is in master");
+
+			System.out.println(i);
+	
+
 		}
 
 	}
