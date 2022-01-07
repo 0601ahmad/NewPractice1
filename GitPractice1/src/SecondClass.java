@@ -16,6 +16,8 @@ public class SecondClass {
 		}
 		for (int i: num) {
 			System.out.println(i);
+			System.out.println(i);
+	
 		}
 
 	}
